@@ -1,0 +1,8 @@
+TODAY: 
+
+
+TODO: 
+    login ReactJS frontend (2h) [] @Current 
+    login ExpressJS backend (2h) []
+    sequelize database (2h) []
+    connect the database to the login backend  (1h) []
