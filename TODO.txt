@@ -1,8 +1,11 @@
 TODAY: 
 
-
 TODO: 
-    login ReactJS frontend (2h) [] @Current 
-    login ExpressJS backend (2h) []
+    login ReactJS frontend (2h) [X] 
+        eye hidden password thing @Later 
+
+    login ExpressJS backend (2h) [] 
+        receive the login info from front end @Current 
+
     sequelize database (2h) []
     connect the database to the login backend  (1h) []
